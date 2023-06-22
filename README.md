@@ -2,6 +2,8 @@
 
 Job application submission for Bitespeed Backend Task. [Assignment link](https://bitespeed.notion.site/Bitespeed-Backend-Task-Identity-Reconciliation-53392ab01fe149fab989422300423199)
 
+👉🏾 [My resume](/Resume%20-%20Emil%20Sharier.pdf)
+
 ## Live endpoint
 
 This REST API is deployed to Netlify functions and the database of choice is Postgres (Supabase). Reason for choosing them is that they have generous free tiers.
