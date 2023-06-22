@@ -15,5 +15,6 @@
         "@typescript-eslint"
     ],
     "rules": {
-    }
+    },
+    "ignorePatterns": ["build/", ".netlify/", "node_modules/"]
 }
