@@ -21,8 +21,9 @@ This REST API is deployed to Netlify functions and the database of choice is Pos
 1. Create a `.env` file that would contains 2 variables as below
 
 ```env
-    DIRECT_URL="postgresql://<postgres_username>:<postgres_password>@localhost:5432/identity-reconciliation?schema=public"
-    DATABASE_URL="postgresql://<postgres_username>:<postgres_password>@localhost:5432/identity-reconciliation?schema=public"
+DIRECT_URL="postgresql://<postgres_username>:<postgres_password>@localhost:5432/identity-reconciliation?schema=public"
+
+DATABASE_URL="postgresql://<postgres_username>:<postgres_password>@localhost:5432/identity-reconciliation?schema=public"
 ```
 
 Replace the `postgres_username` with the actual username. Same with the `postgres_password` param in the url
