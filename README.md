@@ -6,6 +6,10 @@ Job application submission for Bitespeed Backend Task. [Assignment link](https:/
 
 This REST API is deployed to Netlify functions and the database of choice is Postgres (Supabase). Reason for choosing them is that they have generous free tiers.
 
+Identify POST endpoint - https://identity-reconciliation-test.netlify.app/api/identify
+
+[Postman collection](https://www.postman.com/spacecraft-cosmonaut-73901268/workspace/emil-s-public-workspace/collection/19331350-88a28011-d4c9-442a-8715-b57482ecd56c?action=share&creator=19331350)
+
 ## To run locally
 
 ---
