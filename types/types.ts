@@ -9,5 +9,5 @@ export type IContactIdentificationResponse = {
 
 export type IContactIdentificationInput = {
   email?: string;
-  phoneNumber?: number;
+  phoneNumber?: string;
 };
